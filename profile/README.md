@@ -5,7 +5,7 @@
 <tr>
 <td align="center">
 <a href="https://github.com/SooHwanIT">
-<img src="https://raw.githubusercontent.com/2026-team-p/.github/main/images/soohwan.jpg" width="180" alt="수환"><br>
+<img src="https://raw.githubusercontent.com/2026-team-p/.github/main/images/Soohwan.jpg" width="180" alt="수환"><br>
 <b>수환</b>
 </a><br>
 Team Leader
